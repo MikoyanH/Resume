@@ -1,0 +1,60 @@
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif; sans-serif;
+    font-size: 20px;
+    font-style: ;
+    line-height: 1.6em;
+    font-weight: normal;
+    color: white;
+    background-color: black;
+    margin: 20px;
+    padding: 20px;
+    border:20px;
+    margin: auto;
+    max-width: 750%;
+}
+
+.info {
+    font-family: Arial, Helvetica, sans-serif; sans-serif;
+    border: 5px solid white;
+    border-radius: 20px;
+    padding: 20px;
+    display: flex;
+}
+
+.other {
+    border: 3px solid white;
+    border-radius:20px;
+    padding: 20px;
+}
+
+.other h2 {
+    margin-left: 50px;
+}
+
+.other td {
+    padding-right: 20px;
+}
+
+.connect {
+    border: 4px solid white;
+    border-radius:20px;
+    padding: 20px;
+}
+
+img {
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 4px 4px;
+}
+
+.btn {
+    background: white;
+    color: black;
+}
+
+.btn:hover {
+    background: black;
+    color: white;
+}
